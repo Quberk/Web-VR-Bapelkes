@@ -1,0 +1,8 @@
+*
+
+!/Assets/
+!/Assets/0. Project/
+!/Assets/0. Project/Scripts/
+!/Assets/0. Project/Scripts/**
+
+!.gitignore
